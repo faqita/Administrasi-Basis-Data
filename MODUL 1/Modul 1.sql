@@ -47,3 +47,6 @@ SELECT npd.nama_produk np FROM ms_produk_dqlab npd;
 
 -- case 
 SELECT nama_pelanggan,alamat FROM ms_pelanggan_dqlab npd;
+
+-- case 2
+SELECT * FROM tr_penjualan_dqlab;
